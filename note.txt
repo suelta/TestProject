@@ -1,0 +1,6 @@
+1. 查看端口
+cmd->netstat -ano
+
+2. 查看ip地址
+内网ip:cmd->ipconfig/all
+外网ip:百度"ip"
